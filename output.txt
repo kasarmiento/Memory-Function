@@ -1,0 +1,8 @@
+1.75
+Isabelle(Don,Ralph(,Wally))
+
+1.7
+C(B(A,),D)
+
+2.428571428571428
+D(B(A,C),F(E,G))
